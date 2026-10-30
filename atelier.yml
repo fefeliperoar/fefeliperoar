@@ -1,24 +1,32 @@
 # Readme Atelier: edit this file, commit, and your profile rebuilds itself.
 # Themes: minimal · y2k · minecraft · terminal · pixel · garden
 # Docs: https://github.com/monokernn/readme-atelier#config
-
+ 
 username: fefeliperoar
 theme: minimal
+tagline: Diseño industrial, docencia e investigación
+about:
+  - Director de Asociativo, estudio de diseño
+  - Profesor en UDD y Magíster en Ciencias del Diseño UAI
+  - Objetos interactivos, luz, sonido y prototipado
 stack:
   - html
   - javascript
   - typescript
   - css
   - c++
+  - arduino
+  - p5dotjs
 socials:
   github: fefeliperoar
-  website: asociativo.com
-  linkedin: sssss.com
+  website: asociativo.com          # REVISAR: ¿es tu dominio?
+  linkedin: feliperoaramirez
   email: felipeandresroa.r@gmail.com
+repos: [oir-la-luz, dos-realidades, MCD-CA-ROA, collabprog-udd]
 sections:
   - header
   - socials
-  - stats
+  - repos
   - activity
   - stack
   - footer
