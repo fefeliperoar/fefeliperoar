@@ -16,11 +16,11 @@
   <a href="https://github.com/fefeliperoar/tacto"><picture><source media="(prefers-color-scheme: dark)" srcset="./atelier/repo-3-dark.0325da93.svg"/><img src="./atelier/repo-3.60d6af2d.svg" width="49%" alt="tacto"/></picture></a>
 </p>
 
-<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./atelier/activity-dark.c7fda447.svg"/><img src="./atelier/activity.dc339348.svg" width="100%" alt="Contribution activity"/></picture></p>
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./atelier/activity-dark.aff9a3a8.svg"/><img src="./atelier/activity.550b38bf.svg" width="100%" alt="Contribution activity"/></picture></p>
 
 <p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./atelier/stack-dark.a55541b4.svg"/><img src="./atelier/stack.03370a74.svg" width="100%" alt="Tech stack"/></picture></p>
 
-<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./atelier/footer-dark.ed734c84.svg"/><img src="./atelier/footer.ba4c1eae.svg" width="100%" alt="Footer"/></picture></p>
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./atelier/footer-dark.e35f7d0d.svg"/><img src="./atelier/footer.91407d8b.svg" width="100%" alt="Footer"/></picture></p>
 
 <!-- readme-atelier:end --> <br>
 Practice
