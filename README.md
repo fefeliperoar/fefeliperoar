@@ -11,16 +11,16 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/fefeliperoar/oir-la-luz"><picture><source media="(prefers-color-scheme: dark)" srcset="./atelier/repo-1-dark.7cdd781b.svg"/><img src="./atelier/repo-1.f34eb7dd.svg" width="49%" alt="oir-la-luz"/></picture></a>
+  <a href="https://github.com/fefeliperoar/oir-la-luz"><picture><source media="(prefers-color-scheme: dark)" srcset="./atelier/repo-1-dark.cbf2c2f9.svg"/><img src="./atelier/repo-1.ef6d518f.svg" width="49%" alt="oir-la-luz"/></picture></a>
   <a href="https://github.com/fefeliperoar/dos-realidades"><picture><source media="(prefers-color-scheme: dark)" srcset="./atelier/repo-2-dark.d5794fe4.svg"/><img src="./atelier/repo-2.2b1bd10a.svg" width="49%" alt="dos-realidades"/></picture></a>
   <a href="https://github.com/fefeliperoar/tacto"><picture><source media="(prefers-color-scheme: dark)" srcset="./atelier/repo-3-dark.0325da93.svg"/><img src="./atelier/repo-3.60d6af2d.svg" width="49%" alt="tacto"/></picture></a>
 </p>
 
-<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./atelier/activity-dark.3c365ef8.svg"/><img src="./atelier/activity.abbeb9e1.svg" width="100%" alt="Contribution activity"/></picture></p>
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./atelier/activity-dark.28ffa15b.svg"/><img src="./atelier/activity.5e4d43fa.svg" width="100%" alt="Contribution activity"/></picture></p>
 
 <p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./atelier/stack-dark.a55541b4.svg"/><img src="./atelier/stack.03370a74.svg" width="100%" alt="Tech stack"/></picture></p>
 
-<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./atelier/footer-dark.17171c94.svg"/><img src="./atelier/footer.a0f88ebe.svg" width="100%" alt="Footer"/></picture></p>
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./atelier/footer-dark.50af3d8e.svg"/><img src="./atelier/footer.b4dbd930.svg" width="100%" alt="Footer"/></picture></p>
 
 <!-- readme-atelier:end --> <br>
 Practice
